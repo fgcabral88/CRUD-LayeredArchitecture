@@ -1,0 +1,6 @@
+@CRUD_LayeredArchitecture_HostAddress = http://localhost:5159
+
+GET {{CRUD_LayeredArchitecture_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
